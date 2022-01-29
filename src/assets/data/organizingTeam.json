@@ -1,6 +1,6 @@
 [
     {
-        "name":"Name",
+        "name":"Olivier Lange",
         "designation":"Development",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
@@ -9,7 +9,7 @@
         "website":""
     },
     {
-        "name":"Name",
+        "name":"David Hodgetts",
         "designation":"Management",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
@@ -18,29 +18,11 @@
         "website":""
     },
     {
-        "name":"Name",
+        "name":"Andreas Kündig",
         "designation":"Development",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     }
